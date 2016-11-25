@@ -1,0 +1,7 @@
+#Fri Nov 25 11:07:30 KST 2016
+base.0=C\:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_48064a70e033b946671b12c456f2d329e178298e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b7066409a0e708b16914d03adfc303ad4dcc37c8\\classes.dex
+base.1=C\:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b7066409a0e708b16914d03adfc303ad4dcc37c8
+file.0=C\:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_48064a70e033b946671b12c456f2d329e178298e\\classes.dex

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_5335a59483d681eb4e0d5948d8c1c51a1b6c5188\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_aa90609c1c4ccd7d875cdeb3c2b7453d644b1042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_1763f52c732359fe413c2716be8855a0af4a3eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da3febc81fcf551ce21b0a35288d21f675b8bb2e">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b7066409a0e708b16914d03adfc303ad4dcc37c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\libs\core-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.2.0_203a218b43274071065e9a5f9eb87a32f18490e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_e5e3100bc9c9b14f0149cf59f96d9851aa71df37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_7275806337e12ef8ab3d5e998e487ad425cb36a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_f0bcefb5be025798af9411ca126c3eeac31077ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_a1d9e08e171ec1dc3caa1598cea4a88172b084f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ae08719af59cd59c5be7b3ac825f134cbd1ea83">
+        <dex dex="C:\Users\mkkim\Downloads\Camera2Basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_48064a70e033b946671b12c456f2d329e178298e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "C:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "C:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "C:\\Users\\mkkim\\Downloads\\Camera2Basic\\Application\\src\\main\\res\\menu\\encode.xml"
+    }
+]
